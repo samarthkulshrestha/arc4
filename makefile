@@ -13,4 +13,4 @@ arc4.o: src/arc4.c
 	gcc -c -O2 -Wall src/arc4.c
 
 clean:
-	rm -f src/*.o src/*.so examples/ex
+	rm -f src/*.o src/*.so examples/*.o examples/ex
