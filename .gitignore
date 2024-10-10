@@ -1,5 +1,3 @@
 *.o
 *.so
-*/*.o
-*/*.so
-examples/ex
+ex
